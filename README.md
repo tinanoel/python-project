@@ -1,1 +1,1 @@
-# python-project build using Github Actions
+# python-project build Github Actions
